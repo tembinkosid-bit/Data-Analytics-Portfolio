@@ -26,8 +26,16 @@ Welcome to my portfolio! I am a Data Engineer and Analytics professional with ex
 
 ---
 
+### 3. 🛒 E-Commerce Behavioral Funnel & Revenue Optimization Analysis
+- **Description:** Analysis of user behavior on a large-scale e-commerce platform to identify conversion bottlenecks, revenue drivers, and growth opportunities. Built SQL models, cleaned and validated data with Python, and created a Power BI dashboard to visualize funnels, session behavior, and revenue patterns.
+- **Skills & Tools:** SQL, Python (pandas), Power BI, Funnel Analysis, Revenue Optimization
+- **GitHub Repository:** [E-Commerce Funnel & Revenue Analysis](https://github.com/tembinkosid-bit/E-Commerce-Behavioral-Funnel-Revenue-Optimization-Analysis)
+- **Power BI Dashboard Screenshot:**
+  
+  <img width="702" height="546" alt="dashboard_overview" src="https://github.com/user-attachments/assets/ada782b4-b676-47eb-b382-bb705fc60241" />
+
+---
+
 ## Contact
 - **LinkedIn:** [Tembinkosi Vikani Dube](https://www.linkedin.com/in/tembinkosi-vikani-dube)
 - **Email:** [tembinkosid@gmail.com]
-
----
